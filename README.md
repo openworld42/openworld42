@@ -1,5 +1,5 @@
 
-I am a senior systems architekt & SW engineer (self-employed, not looking for a job), strong supporter of open source/Linux/Java, and an open world.
+I am a senior systems architekt & SW engineer (self-employed, not looking for a job), strong supporter of Open Source/Linux/Java, and an open world.
 
 - 📫 How to reach me: github@silberbauer.xyz
 
