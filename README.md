@@ -1,4 +1,4 @@
-I am a senior systems architekt & SW engineer (self-employed, not looking for a job/project), using almost any computer language (preferred: Java/OpenJDK), and have been working for many small and big companies (Austria, Europe, US). Unix user from the very beginning (receiver of the first SysV source in Europe), Linux user since the late 90ties, Open Source / Open content enthusiast. 
+I am a senior systems architekt & SW engineer (self-employed, not looking for a job/project), using almost any computer language (preferred: Java/OpenJDK), and have been working for many small and big companies (Austria, Europe, US). Unix user from the very beginning (receiver of the first SysV source in Europe), Linux user since the late 90ties, Open Source / Open Content enthusiast. 
 
 - 📫 How to reach me: github@silberbauer.xyz
 
